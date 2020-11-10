@@ -1,5 +1,5 @@
 footer {
-    background-color: lightslategray;
+    background-color: rgb(164, 175, 185);
     padding: 10px 0px;
 }
 
@@ -16,15 +16,6 @@ a:visited {
     color: inherit;
 }
 
-.address {
-    text-align: center;
-    font-size: 1.25rem;
-    /* font-weight: bold; */
-}
-
-.right-align {
-    text-align: right;
-}
 
 .socialMediaIcons {
     margin-top: 10px;
@@ -47,4 +38,8 @@ div.socialMediaIcons img {
 
 #vertDividingLine {
     border-left: grey solid 2px;
+}
+
+#LoginButtonModalOpen{
+    margin-left: 10px;
 }
