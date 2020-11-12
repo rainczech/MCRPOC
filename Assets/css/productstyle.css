@@ -1,0 +1,68 @@
+iframe {
+  margin-top: 2rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.atAGlance {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightgrey;
+}
+
+.iconLabels {
+  margin-top:-35px;
+  font-size: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pageTitle {
+    text-align: center;
+    background-color: #006b9c;
+    color: white;
+    padding: 20px 0px;
+}
+
+.productDescription {
+  padding: 20px 40px;
+}
+
+div.productDescription h3{
+  padding-top: 20px;
+}
+
+main p, li{
+  font-size: 1.25rem;
+  color: #36454F ;
+}
+
+.quotationRow {
+  background-color: lightslategray;
+  padding: 20px 100px;
+  color: white;
+  text-align: center;
+  margin-bottom:20px;
+}
+
+.quotation {
+  padding-top: 10px;
+  color: white;
+  font-style: oblique;
+}
+.quotationSource {
+  font-size: 1rem;
+  color: white;
+}
+
+
+.hazmatNote {
+  text-align: right;
+  font-size: 0.75rem;
+  padding: 10px;
+}

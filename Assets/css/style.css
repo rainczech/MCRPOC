@@ -1,6 +1,16 @@
 footer {
-    background-color: rgb(164, 175, 185);
+    background-color: lightgray;
     padding: 10px 0px;
+}
+
+.buttonFilled {
+    background-color: lightslategray;
+    color: white;
+}
+
+.buttonOutline {
+    border-color: lightslategray;
+    color: lightslategray;
 }
 
 footer p {
@@ -15,6 +25,13 @@ a {
 a:visited {
     color: inherit;
 }
+
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
 
 
 .socialMediaIcons {
