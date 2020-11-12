@@ -24,7 +24,7 @@ iframe {
 
 .pageTitle {
     text-align: center;
-    background-color: #006b9c;
+    background: linear-gradient(#006b9c, #2E7CAE);
     color: white;
     padding: 20px 0px;
 }
